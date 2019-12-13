@@ -10,6 +10,7 @@ public class App
     {
         char ser = '男';
         String name ="admin";
+        int a = 1;
         System.out.println( "Hello World!" );
     }
 }
